@@ -2,5 +2,5 @@
 
 ## Play with an Awesome CSS Tool 
   ```
-    display: gird;
+    display: grid;
   ```
